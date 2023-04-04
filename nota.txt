@@ -6,4 +6,8 @@ ls = listar carpeta, ver contenido de una carpeta
 history = lista los comandos utilizados en la terminal
 clear = limpiar pantalla
 ctrl + l = limpiar pantalla
+git status= ver el estado
+git add . = agregar archivo
+git commit -m "Segundo viaje" = agregar registro histórico(marcar tarjeta)
+git push origin main = subir al servidor
 
