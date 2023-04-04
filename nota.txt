@@ -11,4 +11,4 @@ git add . = agregar archivo
 git commit -m "Segundo viaje" = agregar registro histórico(marcar tarjeta)
 git push origin main = subir al servidor
 git pull origin main = actualizar
-
+Miguel
