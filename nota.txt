@@ -1,0 +1,9 @@
+mkdir = crear carpeta
+touch app.py = crear archivo
+rm -R app.py = eliminar archivo
+cat nota.txt = ver el contenido de un archivo
+ls = listar carpeta, ver contenido de una carpeta
+history = lista los comandos utilizados en la terminal
+clear = limpiar pantalla
+ctrl + l = limpiar pantalla
+
